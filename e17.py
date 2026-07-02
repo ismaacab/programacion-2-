@@ -1,2 +1,0 @@
-# importar en python una imagen y almacenarla en una matriz. Implementar una funcion para rotar la imagen. Preguntar al
-#usuario si quiere rotar 90 grados a la izquierda o a la derecha, o 180 grados. mostrar la imagen original y la rotada.no usar funciones ya establecidas
